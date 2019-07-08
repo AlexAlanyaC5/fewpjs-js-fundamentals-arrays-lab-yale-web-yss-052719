@@ -1,5 +1,5 @@
 // Write your solution here!
-const pets
+let pets = pets
 
 const pets = ["Milo", "Otis", "Garfield"]
   pets.push("Odie")
