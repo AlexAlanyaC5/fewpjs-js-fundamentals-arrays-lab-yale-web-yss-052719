@@ -1,5 +1,4 @@
 // Write your solution here!
-let dog = "pets"
 
  const append = ["Milo", "Otis", "Garfield"]
   //pets.push("Odie")
