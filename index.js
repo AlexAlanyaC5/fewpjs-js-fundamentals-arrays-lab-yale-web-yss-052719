@@ -1,2 +1,2 @@
 // Write your solution here!
-const pets = ["Milo", "Otis", "Garfield", "Odie"]
+const petsAppend = ["Milo", "Otis", "Garfield", "Odie"]
