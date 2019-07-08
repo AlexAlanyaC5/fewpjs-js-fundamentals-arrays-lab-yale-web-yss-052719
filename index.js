@@ -1,11 +1,11 @@
 // Write your solution here!
-const dog = "pets"
+let dog = "pets"
 
-const pets = ["Milo", "Otis", "Garfield"]
+ const append = ["Milo", "Otis", "Garfield"]
   //pets.push("Odie")
-const pets = ["Milo", "Otis", "Garfield"]
+const prepend = ["Milo", "Otis", "Garfield"]
   //pets.unshift("Odie")
-const pets = ["Milo", "Otis", "Garfield"]
+const removeLast = ["Milo", "Otis", "Garfield"]
   //pets.pop("Garfield")
-const pets = ["Milo", "Otis", "Garfield"]
+const removeFirst = ["Milo", "Otis", "Garfield"]
   //pets.shift("Milo")
