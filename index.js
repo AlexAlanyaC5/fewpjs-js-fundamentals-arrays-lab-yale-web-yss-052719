@@ -1,5 +1,5 @@
 // Write your solution here!
-const pets = "petsAppend"
+const petsAppend = "pets"
 
 const petsAppend = ["Milo", "Otis", "Garfield"]
   //petsAppend.push("Odie")
