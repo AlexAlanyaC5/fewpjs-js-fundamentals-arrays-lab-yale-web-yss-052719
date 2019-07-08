@@ -1,11 +1,11 @@
 // Write your solution here!
-const pets
+const dog = "pets"
 
 const pets = ["Milo", "Otis", "Garfield"]
-  pets.push("Odie")
+  //pets.push("Odie")
 const pets = ["Milo", "Otis", "Garfield"]
-  pets.unshift("Odie")
+  //pets.unshift("Odie")
 const pets = ["Milo", "Otis", "Garfield"]
-  pets.pop("Garfield")
+  //pets.pop("Garfield")
 const pets = ["Milo", "Otis", "Garfield"]
-  pets.shift("Milo")
+  //pets.shift("Milo")
